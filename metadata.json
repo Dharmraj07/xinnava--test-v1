@@ -1,0 +1,8 @@
+{
+  "name": "Xinnava",
+  "description": "Upload Once. Apply Everywhere. AI-powered document vault and intelligent form-filling assistant that helps people securely store important documents and automatically fill forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
